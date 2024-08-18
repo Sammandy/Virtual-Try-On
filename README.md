@@ -1,6 +1,3 @@
-Here's a README file for your GitHub project:
-
----
 
 # Virtual Try-On Solution for E-commerce
 
